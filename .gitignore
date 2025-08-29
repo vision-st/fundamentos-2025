@@ -1,0 +1,41 @@
+# =========================
+# Archivos comunes del sistema
+# =========================
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+
+# =========================
+# Archivos y carpetas de NetBeans
+# =========================
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+/nblibraries.properties
+
+# =========================
+# Archivos de IDEs
+# =========================
+.idea/
+/*.iws
+/.classpath
+/.project
+/.settings/
+
+# =========================
+# Sistema Operativo
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Solo dejar .java
+# =========================
+!.java
